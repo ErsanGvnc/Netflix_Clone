@@ -23,7 +23,8 @@ Your application code is in netflix_clone\lib\main.dart.
 
 # Assets/Videos
 
-<img src="https://giphy.com/gifs/xVqeJsJ1z5kF9xeXIR"/>
+
+<img src="https://media.giphy.com/media/xVqeJsJ1z5kF9xeXIR/giphy.gif"/>
 
 ![net](https://user-images.githubusercontent.com/57798484/146642244-6b2a012b-825b-4c39-a08c-2bd387e841fa.PNG)
 ![neten](https://user-images.githubusercontent.com/57798484/146642247-a89a1102-31c4-4e07-9c1c-f3ef74250637.PNG)
